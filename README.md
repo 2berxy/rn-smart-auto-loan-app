@@ -1,9 +1,9 @@
 <div align="center">
 <h1>flutter_hot_line</h1>
 
-<kbd><img width="250" src="https://github.com/user-attachments/assets/dbe4a70d-c428-4619-8889-fe5888478c69" /></kbd>
+<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/dbe4a70d-c428-4619-8889-fe5888478c69" /></kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<kbd><img width="250" src="Image" src="https://github.com/user-attachments/assets/71e86c43-9ab7-4da9-9bb1-b9ced91b54f3" /></kbd>
+<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/71e86c43-9ab7-4da9-9bb1-b9ced91b54f3" /></kbd>
 
 </center>
 </div>
